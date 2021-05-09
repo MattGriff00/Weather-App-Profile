@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Weather-App-Profile/static/css/main.d11c60f4.chunk.css",
+    "main.js": "/Weather-App-Profile/static/js/main.220539ee.chunk.js",
+    "main.js.map": "/Weather-App-Profile/static/js/main.220539ee.chunk.js.map",
+    "runtime-main.js": "/Weather-App-Profile/static/js/runtime-main.1b0c48b0.js",
+    "runtime-main.js.map": "/Weather-App-Profile/static/js/runtime-main.1b0c48b0.js.map",
+    "static/css/2.756e7720.chunk.css": "/Weather-App-Profile/static/css/2.756e7720.chunk.css",
+    "static/js/2.0eeddb22.chunk.js": "/Weather-App-Profile/static/js/2.0eeddb22.chunk.js",
+    "static/js/2.0eeddb22.chunk.js.map": "/Weather-App-Profile/static/js/2.0eeddb22.chunk.js.map",
+    "index.html": "/Weather-App-Profile/index.html",
+    "static/css/2.756e7720.chunk.css.map": "/Weather-App-Profile/static/css/2.756e7720.chunk.css.map",
+    "static/css/main.d11c60f4.chunk.css.map": "/Weather-App-Profile/static/css/main.d11c60f4.chunk.css.map",
+    "static/js/2.0eeddb22.chunk.js.LICENSE.txt": "/Weather-App-Profile/static/js/2.0eeddb22.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Weather-App-Profile/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b0c48b0.js",
+    "static/css/2.756e7720.chunk.css",
+    "static/js/2.0eeddb22.chunk.js",
+    "static/css/main.d11c60f4.chunk.css",
+    "static/js/main.220539ee.chunk.js"
+  ]
+}
